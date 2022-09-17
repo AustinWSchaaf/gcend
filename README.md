@@ -7,4 +7,4 @@
 ## Pin the extension
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/25407635/190865762-342e3f22-fc90-45fd-89f7-f4bbfb39da5b.gif)
 ## Run the extension
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/25407635/190865784-c81ca3b8-b2eb-4967-bfc9-119f3de05900.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/25407635/190866907-054cfbba-2b44-43cd-92cb-3a2ab564db92.gif)
