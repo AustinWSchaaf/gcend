@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "GCEND",
+    "description": "Watch, No More.",
+    "background": { "service_worker": "background.js"},
+    "content_scripts":[
+        {
+            "matches":[ 
+                "https://site.gcntraining.com/*"
+            ],
+            "js":[
+                "custom_common.js",
+                "jquery.js",
+                "content_script.js"
+            ],
+            "run_at": "document_start"
+        }
+    ],
+    "action": {
+        
+        "default_icon": {
+            "128": "./images/g_icon128.png"
+          }
+    },
+    "permissions": ["tabs","activeTab", "scripting", "nativeMessaging", "storage"],
+    "version": "1.0.0",
+    "icons": {"128":"./images/g_icon128.png"}
+}
