@@ -9,7 +9,6 @@
                 "https://site.gcntraining.com/*"
             ],
             "js":[
-                "custom_common.js",
                 "jquery.js",
                 "content_script.js"
             ],
